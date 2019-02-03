@@ -1,0 +1,6 @@
+Origin: testdebianuser.github.io/test_deploy
+Label: testdebianuser.github.io/test_deploy
+Codename: stretch
+Architectures: armhf
+Components: main
+Description:  Glial test

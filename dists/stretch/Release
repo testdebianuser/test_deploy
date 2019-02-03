@@ -1,0 +1,19 @@
+Origin: testdebianuser.github.io/test_deploy
+Label: testdebianuser.github.io/test_deploy
+Codename: stretch
+Date: Sun, 03 Feb 2019 21:36:19 UTC
+Architectures: armhf
+Components: main
+Description: Glial test
+MD5Sum:
+ 01452dde6775c8533d79cda18f8ec694 568 main/binary-armhf/Packages
+ 8ee14d1804973a6238c7a183496c0176 411 main/binary-armhf/Packages.gz
+ e0ea08e600990c956b62e1bac884e865 149 main/binary-armhf/Release
+SHA1:
+ d805d75d44f106ceb9caa5da02b2058ee7f3dab6 568 main/binary-armhf/Packages
+ a71a48281cfe8b82023824a045b0c5cc473db679 411 main/binary-armhf/Packages.gz
+ 9644697a3009f8118c602069dfdf4099cb42096c 149 main/binary-armhf/Release
+SHA256:
+ 17081d50ecfdf05e71e9bc6382b24177685d93e55b69fd79bb52ada49003a883 568 main/binary-armhf/Packages
+ af59723d140fa6a52370ab7fc536f91d50d4dc1141280cac4d1bb9f88a97f584 411 main/binary-armhf/Packages.gz
+ 36c01d8be50e38de512f337d0742ae69fd326a2340634f2ac4ed416c2601deaf 149 main/binary-armhf/Release
