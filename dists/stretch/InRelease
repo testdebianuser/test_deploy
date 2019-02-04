@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 Origin: testdebianuser.github.io/test_deploy
 Label: testdebianuser.github.io/test_deploy
 Codename: stretch
@@ -17,3 +20,20 @@ SHA256:
  35c569eecd529c14a8d625cee3a2cd88fae01bd7cc8152642df790ef48b0e425 568 main/binary-armhf/Packages
  9037beb6829f3554b486044079376fdf01c6e7f8aa06e47d9c13f0c228b047aa 412 main/binary-armhf/Packages.gz
  36c01d8be50e38de512f337d0742ae69fd326a2340634f2ac4ed416c2601deaf 149 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBAgAGBQJcWAgpAAoJEP5WDQ7LM6SLJUkP/j+KOClH2js2IUWfEuMU9Kig
+NHrOHcOAaIerGNLe7Ld2EJEiGA3pR9C6PhyLc3gevJh4YfjgQpR1keg3Fteaei8o
+fsF/4SQcr7vj2EvYfYP1hKRp7R1Pf/ahtQSovNUPu/1V/2e3af4Rauc3gfpp0iBp
+my43+LTg6s/BZExow6ojLTvaipl7Ex86VfvWz/aDHv/aOUKUGd9UQMLkkSMuOoU+
+gzfFFa+1slYUCCGVGlwvWPrYwOQcaj5oGQ+sgAiDb0WjFCb92vhvy1dUHw63rMnx
+/iDPKs13yHoyrbrmMTI108LtVGywRPkBYNQfi/Zs1Kxt47Q8kC3Q6wbHTZc0g1XL
+blQchkUaJk6ahvewQHEWffGYykHTGEK/Kafw9/ltUKqRC6gNzKd0RacXflUSIuaA
+7JxeObnf1KxHlK+qeSBbddUQWzMesyMcd/OTrBITRKg0qdjcQVU0YFul0y4cOMBq
+6DADGXpczXaEJzFmAn6amQ6V4MDyat9PTpJ6QQAJ/uoX6a6CDlqZ/8R6gUoc1nZJ
+gutp8okvXSM8jYOBmTcOII2ZBCUmPrVw9te6dClXgrYHjLpJPJIJKuU8jwYgMh6G
+sGtUl4I0lXiQU/pWkqg77AteGkm47AJUPBj2xwOafOXeaU7aR9dZdQR80M1YhjW2
+G7kvCx5PNHj4Ixj0JasT
+=dZi1
+-----END PGP SIGNATURE-----
