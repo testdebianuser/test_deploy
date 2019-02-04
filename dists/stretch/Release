@@ -1,19 +1,19 @@
 Origin: testdebianuser.github.io/test_deploy
 Label: testdebianuser.github.io/test_deploy
 Codename: stretch
-Date: Mon, 04 Feb 2019 11:18:26 UTC
+Date: Mon, 04 Feb 2019 11:47:34 UTC
 Architectures: armhf
 Components: main
 Description: Glial test
 MD5Sum:
- c896e040499f3726562de0a37a18f200 568 main/binary-armhf/Packages
- e09d773b8369bf701741c839d8c927cc 409 main/binary-armhf/Packages.gz
+ bfd49d0f11a40d03ef697eda26201688 568 main/binary-armhf/Packages
+ 5ce0093ceb8f9c61fcffc8417f74decf 410 main/binary-armhf/Packages.gz
  e0ea08e600990c956b62e1bac884e865 149 main/binary-armhf/Release
 SHA1:
- 347dc4960a9f6c5eb39bd1e91e7f07d1213620f1 568 main/binary-armhf/Packages
- 1356271d5847d6dda6733abdcc1f790d0983b314 409 main/binary-armhf/Packages.gz
+ 821d13eeaeb81b3cdf54e73c0863d0a34cfa214b 568 main/binary-armhf/Packages
+ a7f5985b3aa3ec88f58a8f1b52f79d843095b49a 410 main/binary-armhf/Packages.gz
  9644697a3009f8118c602069dfdf4099cb42096c 149 main/binary-armhf/Release
 SHA256:
- bb2be96e05a1539136cc0f7f02f4f967431ffbb25228029fbca645c4d7a02915 568 main/binary-armhf/Packages
- 3a5073f86df2bb70d1accb0adacf79d2cdb6bc61f89ff9a4fa19b5ef8580ac70 409 main/binary-armhf/Packages.gz
+ c4a5dfd361a3664deabc9fc6f8ddb049fd0a73561c3e3cd24274d2b8c24e43e1 568 main/binary-armhf/Packages
+ d2ca6d6e7533fb25692e81055a1abee61eee45e587e7cd41d2fbec5d3cf80f00 410 main/binary-armhf/Packages.gz
  36c01d8be50e38de512f337d0742ae69fd326a2340634f2ac4ed416c2601deaf 149 main/binary-armhf/Release
