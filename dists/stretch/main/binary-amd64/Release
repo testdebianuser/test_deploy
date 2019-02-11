@@ -1,0 +1,5 @@
+Component: main
+Origin: testdebianuser.github.io/test_deploy
+Label: testdebianuser.github.io/test_deploy
+Architecture: amd64
+Description: Glial test

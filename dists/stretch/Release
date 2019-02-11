@@ -1,19 +1,28 @@
 Origin: testdebianuser.github.io/test_deploy
 Label: testdebianuser.github.io/test_deploy
 Codename: stretch
-Date: Mon, 04 Feb 2019 11:47:34 UTC
-Architectures: armhf
+Date: Mon, 11 Feb 2019 16:34:14 UTC
+Architectures: armhf amd64
 Components: main
 Description: Glial test
 MD5Sum:
- bfd49d0f11a40d03ef697eda26201688 568 main/binary-armhf/Packages
- 5ce0093ceb8f9c61fcffc8417f74decf 410 main/binary-armhf/Packages.gz
+ 14f0684587732cae6a53488f2a459a19 623 main/binary-armhf/Packages
+ bd72bfc8fac97ab79fa8ef73c65bec5f 440 main/binary-armhf/Packages.gz
  e0ea08e600990c956b62e1bac884e865 149 main/binary-armhf/Release
+ 886d62af9aab10be814337f2c587030c 623 main/binary-amd64/Packages
+ 9bb5a7a9c41cc571c8fa4bf9b5c4c1bc 441 main/binary-amd64/Packages.gz
+ 586f9b1d652d8bb33b7e58e6f0c866da 149 main/binary-amd64/Release
 SHA1:
- 821d13eeaeb81b3cdf54e73c0863d0a34cfa214b 568 main/binary-armhf/Packages
- a7f5985b3aa3ec88f58a8f1b52f79d843095b49a 410 main/binary-armhf/Packages.gz
+ af79ff19bea9f8d1d0198560d763b718ce7bf867 623 main/binary-armhf/Packages
+ f63d8e3f58f6f07d117b042486590fcd3553169e 440 main/binary-armhf/Packages.gz
  9644697a3009f8118c602069dfdf4099cb42096c 149 main/binary-armhf/Release
+ 684ca18b773d75b620a0b5a1e2285a5c4e23f7eb 623 main/binary-amd64/Packages
+ 3da68b03386be10cfff3666ede30156bd28ec245 441 main/binary-amd64/Packages.gz
+ e96e8a976bb8a2a94d5f6e4d77ba23ec870c5547 149 main/binary-amd64/Release
 SHA256:
- c4a5dfd361a3664deabc9fc6f8ddb049fd0a73561c3e3cd24274d2b8c24e43e1 568 main/binary-armhf/Packages
- d2ca6d6e7533fb25692e81055a1abee61eee45e587e7cd41d2fbec5d3cf80f00 410 main/binary-armhf/Packages.gz
+ b00731f61332321282ba7937a3b11490369d189da00cca9e802421773adc45b1 623 main/binary-armhf/Packages
+ d2794ff9b4816424f60e146a4be905933d962bc573ad901ea763d9d18b43462a 440 main/binary-armhf/Packages.gz
  36c01d8be50e38de512f337d0742ae69fd326a2340634f2ac4ed416c2601deaf 149 main/binary-armhf/Release
+ 97f57f9b1b9919a49008fb0ce1a6756c82137095f4e3dbf0d00e4091a7912121 623 main/binary-amd64/Packages
+ 94a038d55f0c257135262a490a0a6a8dbf7f97a0877aca772459b394995b1643 441 main/binary-amd64/Packages.gz
+ 504fa42c0137987567a56418060ca9f498278fa79d4841ad58f30e5a24e73f16 149 main/binary-amd64/Release
